@@ -1,5 +1,5 @@
 """WizCoin
-By witcher shadowy@example.com
+By sha shadowy@example.com
 
 A Python module to"""
 
